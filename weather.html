@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="weather.css">
+</head>
+<body>
+    <form id="weather-form">
+        <input type="text" id="city-input" class="cityInput" placeholder="Enter city name" required>
+        <button type="submit">Get Weather</button>
+    </form>
+    <div class="card" style="display: none;">
+        <h1 class="cityDisplay">Kampala</h1>
+        <p class="tempDisplay">90°F</p>
+        <p class="humidityDisplay">Humidity:60%</p>
+        <p class="descDisplay">Clear skies</p>
+        <p class="weatherEmoji">☀️</p>
+        <p class="errorDisplay">Please enter a valid city name.</p>
+    </div>
+    <script src="weather.js"></script>
+</body>
+</html>

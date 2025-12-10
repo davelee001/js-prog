@@ -1,0 +1,36 @@
+.box{
+    width: 500px;
+    height: 100px;
+    background-color: lightblue;
+    border: 2px solid black;
+    display: block;
+    font-weight: bold;
+}
+
+#cruciferous{
+    border: 3px solid;
+    font-size: 2rem;
+
+}
+#mybox{
+    background-color: green;
+    width: 300px;
+    height: 300px;
+    font-size: 4.5rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 0;
+}
+#mybutton{
+    border: none;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 10px 15px;
+
+}
+.enabled{
+    background-color: blue;
+    color: aliceblue;
+}

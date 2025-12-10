@@ -1,0 +1,56 @@
+#countlabel{
+display: block;
+font-size: 10em;
+color: red;
+text-align: center;
+}
+.btn{
+font-size: 17em;
+color: blue;
+text-align: center;
+
+}
+#mybtn{
+    font-size: 2em;
+    justify-content: center;
+
+}
+body{
+    text-align: center;
+}
+#mylabel1{
+    font-size: 2em;
+    border: 2px solid;
+}
+#mylabel2{
+    font-size: 2em;
+    border: 2px solid;
+}
+#mylabel3{
+    font-size: 2em;
+    border: 2px solid;
+}
+
+h1{
+    color: blue;
+}
+form{
+    background-color: ghostwhite;
+    align-content: center;
+    margin: auto;
+    max-width: 350px;
+    padding: 25px;
+    box-shadow: 5px 5px 15px;
+    border-radius: 10px;
+    opacity: 0.5px;
+}
+#textbox{
+    width: 50%;
+    text-align: center;
+    font-size: 2em;
+    border-radius: 20px;
+}
+#result{
+    font-size: 1.7em;
+    font-weight: bold;
+}

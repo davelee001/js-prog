@@ -1,0 +1,7 @@
+{
+    "name": "losika",
+    "age": 25,
+    "city": "New York",
+    "isStudent": true,
+    "courses": ["Mathematics", "Computer Science", "Art"]
+}
